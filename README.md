@@ -1,3 +1,11 @@
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=39d353&vCenter=true&width=320&lines=Bienvenue+sur+mon+GitHub!;Toujours+de+bonne+humeur+%F0%9F%98%8A;Frontend+%26+Backend+Enthusiast;Let's+code+together+!" alt="Typing SVG" />
+</p>
+
+---
+
 # 👋 Salut, moi c’est Jonathan ! 
 
 <p align="center">
