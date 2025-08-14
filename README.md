@@ -16,7 +16,7 @@
 </p>
 <p align="center"><b>Bienvenue sur mon profil GitHub !</b></p>
 
-Je suis un passionné qui découvre le vaste univers du développement web.  
+Je suis un passionné qui découvre le vaste univers du développement web en faisant la formation Concepteur d'Applications Web proposé par l'école O'Clock depuis Mai 2025.  
 Curieux et motivé, j’explore chaque jour de nouvelles technologies et je me lance dans des projets qui me permettent d’apprendre et de progresser.  
 Même si je suis encore débutant, je mets tout mon cœur dans ce que je fais et j’adore relever de nouveaux défis !
 
