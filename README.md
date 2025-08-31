@@ -95,7 +95,6 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
   <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(255,51,51,0.12);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,204,0.13);" />
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,204,0.13);" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/3/39/Merise_logo.png" alt="Merise" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,204,0.13);" />
 
 </div>
 
