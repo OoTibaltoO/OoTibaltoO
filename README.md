@@ -28,6 +28,20 @@ Même si je viens de commencer, je mets tout mon cœur dans ce que je fais et j�
 - Je commence à m’intéresser au **back-end** et aux bases de données
 - Je travaille sur des petits projets pour mettre en pratique ce que j’apprends
 
+### Projet en cour :
+
+- Pour m’exercer, je travaille sur un projet E-commerce qui propose des produits issus de la ferme d’un client.
+  
+#### Fonctionnalités du projet E-commerce
+
+- **Catalogue de produits** : créer des pages listant les produits, avec photos, prix et descriptions.
+- **Panier d’achat** : permettre aux utilisateurs d’ajouter/supprimer des produits et de voir le total.
+- **Gestion des commandes** : permettre de passer commande, voir l’historique, etc.
+- **Espace administrateur** : permettre au client d’ajouter, modifier ou supprimer ses produits.
+- **Authentification** : permettre aux clients de créer un compte et de suivre leurs commandes.
+- **Paiement** : intégrer une solution de paiement (pour l’exercice, tu peux simuler la transaction).
+- **Livraison** : ajouter la possibilité de choisir un mode de livraison.
+
 <p align="center">
   <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"
        alt="Code en action"
