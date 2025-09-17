@@ -122,9 +122,8 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" width="46"/></td>
     <td></td>
   </tr>
-  <tr><td colspan="4" height="14"></td></tr>
-  <tr>
-    <td align="center" colspan="4" style="padding: 12px 0; background: #f2f9eebb;"><b>🗄️ Bases de Données</b></td>
+    <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🗄️ Bases de Données</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="46"/></td>
@@ -132,15 +131,14 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
     <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="46"/></td>
     <td></td>
   </tr>
-  <tr><td colspan="4" height="14"></td></tr>
-  <tr>
-    <td align="center" colspan="4" style="padding: 12px 0; background: #f8fafc;"><b>🔧 Outils & Autres</b></td>
+    </tr>
+    <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🔧 Outils & Autres</b></td>
   </tr>
   <tr>
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="46"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="46"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="46"/></td>
-    <td></td>
   </tr>
   <tr>
     <td colspan="4" align="center" style="padding: 18px 0 0 0; color: #4f59ca; font-size: 1.1em;">
