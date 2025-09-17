@@ -149,6 +149,16 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
   </tr>
 </table>
 
+## GitHub Stats
+
+Voici mes statistiques clés sur GitHub :
+
+- **Public Repositories:** 5
+- **Followers:** 6
+- **Following:** 33
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OoTibaltoO&show_icons=true&count_private=true&hide_title=true&theme=radical)
+
 
 </div>
 
