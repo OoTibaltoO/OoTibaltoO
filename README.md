@@ -93,22 +93,62 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
 <a href="https://linkedin.com/in/www.linkedin.com/in/jonathan-boerio-209168142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonathan-boerio-209168142" height="30" width="40" /></a>
 </p>
 
-<h3 align="center">🌈 Languages and Tools 🌈</h3>
-<div align="center">
+<table align="center" width="100%" style="background: linear-gradient(135deg, #f4f9ff 0%, #e0e7ff 100%); border-radius: 18px; box-shadow: 0 6px 32px rgba(60,80,255,0.08); padding: 24px; margin: 32px auto;">
+  <tr>
+    <th colspan="4" style="font-size: 1.6em; padding: 18px 0; color: #2a2d4a; background: linear-gradient(90deg, #a5b4fc22 0%, #818cf855 100%); border-radius: 18px 18px 0 0;">
+      🌈 Languages & Tools 🌈
+    </th>
+  </tr>
+  <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #eef2ff99;"><b>🎨 Front-End</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML5" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS3" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" title="JavaScript" width="46"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" title="Svelte" width="46"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="46"/></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr><td colspan="4" height="14"></td></tr>
+  <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🛠️ Back-End</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" title="Node.js" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" width="46"/></td>
+    <td></td>
+  </tr>
+  <tr><td colspan="4" height="14"></td></tr>
+  <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #f2f9eebb;"><b>🗄️ Bases de Données</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="46"/></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="46"/></td>
+    <td></td>
+  </tr>
+  <tr><td colspan="4" height="14"></td></tr>
+  <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #f8fafc;"><b>🔧 Outils & Autres</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="46"/></td>
+    <td></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center" style="padding: 18px 0 0 0; color: #4f59ca; font-size: 1.1em;">
+      <i>✨ Toujours curieux d'explorer de nouveaux outils et technologies !</i>
+    </td>
+  </tr>
+</table>
 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(255,102,0,0.2);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,102,255,0.18);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(255,255,0,0.17);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,255,102,0.15);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(51,51,51,0.15);" />
-  <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(255,0,255,0.13);" />
-  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(204,51,51,0.13);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(51,51,204,0.12);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,204,204,0.12);" />
-  <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(204,0,0,0.12);" />
-  <img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(255,51,51,0.12);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,204,0.13);" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50" style="margin: 10px; border-radius: 12px; box-shadow: 0 4px 12px rgba(0,0,204,0.13);" />
 
 </div>
 
