@@ -139,6 +139,7 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
     <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="46"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="46"/></td>
     <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="46"/></td>
+  <td></td>
   </tr>
   <tr>
     <td colspan="4" align="center" style="padding: 18px 0 0 0; color: #4f59ca; font-size: 1.1em;">
