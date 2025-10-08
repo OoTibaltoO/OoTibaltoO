@@ -6,7 +6,7 @@
 
 ---
 
-# 👋 Salut, moi c’est Jonathan ! 
+<h1 align="center">👋 Salut, moi c’est Jonathan !</h1>
 
 <p align="center">
   <img src="https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif" 
@@ -22,17 +22,17 @@ Même si je viens de commencer, je mets tout mon cœur dans ce que je fais et j�
 
 ---
 
-## 🚀 Ce que je fais actuellement
+<h2 align="center">🚀 Ce que je fais actuellement</h2>
 
 - J’apprends les bases du **JavaScript**, du **HTML** et du **CSS**
 - Je commence à m’intéresser au **back-end** et aux bases de données
 - Je travaille sur des petits projets pour mettre en pratique ce que j’apprends
 
-### Projet en cour :
+<h3 align="center">Projet en cours :</h3>
 
 - Pour m’exercer, je travaille sur un projet E-commerce qui propose des produits issus de la ferme d’un client.
   
-#### Fonctionnalités du projet E-commerce
+<h4 align="center">Fonctionnalités du projet E-commerce</h4>
 
 - **Catalogue de produits** : créer des pages listant les produits, avec photos, prix et descriptions.
 - **Panier d’achat** : permettre aux utilisateurs d’ajouter/supprimer des produits et de voir le total.
@@ -52,7 +52,7 @@ Même si je viens de commencer, je mets tout mon cœur dans ce que je fais et j�
 
 ---
 
-## 💡 Mes valeurs
+<h2 align="center">💡 Mes valeurs</h2>
 
 - **Persévérance** : Je crois en l’apprentissage par la pratique et je ne baisse jamais les bras devant une difficulté 💪
 - **Curiosité** : J’aime comprendre comment les choses fonctionnent et découvrir de nouvelles façons de coder 🕵️‍♂️
@@ -68,7 +68,7 @@ Même si je viens de commencer, je mets tout mon cœur dans ce que je fais et j�
 
 ---
 
-## 🌱 Ce que je vise
+<h2 align="center">🌱 Ce que je vise</h2>
 
 Mon objectif est de devenir un développeur compétent, capable de créer des applications utiles et de collaborer avec la communauté.  
 Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres débutants à se lancer !
@@ -88,8 +88,8 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ootibaltoo&label=Profile%20views&color=0e75b6&style=flat" alt="ootibaltoo" /> </p>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="center">Connect with me:</h3>
+<p align="center">
 <a href="https://linkedin.com/in/www.linkedin.com/in/jonathan-boerio-209168142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonathan-boerio-209168142" height="30" width="40" /></a>
 </p>
 
@@ -148,16 +148,17 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
   </tr>
 </table>
 
-## GitHub Stats
+<h2 align="center">GitHub Stats</h2>
 
-Voici mes statistiques clés sur GitHub :
+<p align="center">Voici mes statistiques clés sur GitHub :</p>
+<p align="center">
+  <b>Public Repositories:</b> 5 <br>
+  <b>Followers:</b> 6 <br>
+  <b>Following:</b> 33
+</p>
 
-- **Public Repositories:** 5
-- **Followers:** 6
-- **Following:** 33
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=OoTibaltoO&show_icons=true&count_private=true&hide_title=true&theme=radical)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OoTibaltoO&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats"/>
+</p>
 
 </div>
-
