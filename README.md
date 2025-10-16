@@ -20,6 +20,13 @@ Je suis un passionné qui découvre le vaste univers du développement web en fa
 Curieux et motivé, j’explore chaque jour de nouvelles technologies et je me lance dans des projets qui me permettent d’apprendre et de progresser.  
 Même si je viens de commencer, je mets tout mon cœur dans ce que je fais et j’adore relever de nouveaux défis !
 
+![GitHub Commit Count](https://komarev.com/ghpvc/?username=OoTibaltoO&label=Commits&color=blue&style=flat)
+<!--COMMIT_COUNT-->
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ootibaltoo&label=Profile%20views&color=0e75b6&style=flat" alt="ootibaltoo" /> </p>
+
+---
+
 <table align="center" width="100%" style="background: linear-gradient(135deg, #f4f9ff 0%, #e0e7ff 100%); border-radius: 18px; box-shadow: 0 6px 32px rgba(60,80,255,0.08); padding: 24px; margin: 32px auto;">
   <tr>
     <th colspan="4" style="font-size: 1.6em; padding: 18px 0; color: #2a2d4a; background: linear-gradient(90deg, #a5b4fc22 0%, #818cf855 100%); border-radius: 18px 18px 0 0;">
@@ -140,20 +147,5 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
 <p align="center">N’hésite pas à me contacter ou à suivre mes projets pour voir mon évolution.<br>À bientôt sur GitHub ! 👨‍💻✨</p>
 
 ---
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ootibaltoo&label=Profile%20views&color=0e75b6&style=flat" alt="ootibaltoo" /> </p>
-
-<h2 align="center">GitHub Stats</h2>
-
-<p align="center">Voici mes statistiques clés sur GitHub :</p>
-<p align="center">
-  <b>Public Repositories:</b> 5 <br>
-  <b>Followers:</b> 6 <br>
-  <b>Following:</b> 33
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=OoTibaltoO&show_icons=true&count_private=true&hide_title=true&theme=radical" alt="GitHub Stats"/>
-</p>
 
 </div>
