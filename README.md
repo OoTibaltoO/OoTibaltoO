@@ -20,6 +20,61 @@ Je suis un passionné qui découvre le vaste univers du développement web en fa
 Curieux et motivé, j’explore chaque jour de nouvelles technologies et je me lance dans des projets qui me permettent d’apprendre et de progresser.  
 Même si je viens de commencer, je mets tout mon cœur dans ce que je fais et j’adore relever de nouveaux défis !
 
+<table align="center" width="100%" style="background: linear-gradient(135deg, #f4f9ff 0%, #e0e7ff 100%); border-radius: 18px; box-shadow: 0 6px 32px rgba(60,80,255,0.08); padding: 24px; margin: 32px auto;">
+  <tr>
+    <th colspan="4" style="font-size: 1.6em; padding: 18px 0; color: #2a2d4a; background: linear-gradient(90deg, #a5b4fc22 0%, #818cf855 100%); border-radius: 18px 18px 0 0;">
+      🌈 Languages & Tools 🌈
+    </th>
+  </tr>
+  <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #eef2ff99;"><b>🎨 Front-End</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML5" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS3" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" title="JavaScript" width="46"/></td>
+    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" title="Svelte" width="46"/></td>
+  </tr>
+  <tr>
+    <td align="center" colspan="2"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="46"/></td>
+    <td colspan="2"></td>
+  </tr>
+  <tr><td colspan="4" height="14"></td></tr>
+  <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🛠️ Back-End</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" title="Node.js" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" width="46"/></td>
+    <td></td>
+  </tr>
+    <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🗄️ Bases de Données</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="46"/></td>
+    <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="46"/></td>
+    <td></td>
+  </tr>
+    </tr>
+    <tr>
+    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🔧 Outils & Autres</b></td>
+  </tr>
+  <tr>
+    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="46"/></td>
+    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="46"/></td>
+  <td></td>
+  </tr>
+  <tr>
+    <td colspan="4" align="center" style="padding: 18px 0 0 0; color: #4f59ca; font-size: 1.1em;">
+      <i>✨ Toujours curieux d'explorer de nouveaux outils et technologies !</i>
+    </td>
+  </tr>
+</table>
+
 ---
 
 <h2 align="center">🚀 Ce que je fais actuellement</h2>
@@ -87,66 +142,6 @@ Je souhaite progresser étape par étape et, pourquoi pas, inspirer d’autres d
 ---
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ootibaltoo&label=Profile%20views&color=0e75b6&style=flat" alt="ootibaltoo" /> </p>
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://linkedin.com/in/www.linkedin.com/in/jonathan-boerio-209168142" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/jonathan-boerio-209168142" height="30" width="40" /></a>
-</p>
-
-<table align="center" width="100%" style="background: linear-gradient(135deg, #f4f9ff 0%, #e0e7ff 100%); border-radius: 18px; box-shadow: 0 6px 32px rgba(60,80,255,0.08); padding: 24px; margin: 32px auto;">
-  <tr>
-    <th colspan="4" style="font-size: 1.6em; padding: 18px 0; color: #2a2d4a; background: linear-gradient(90deg, #a5b4fc22 0%, #818cf855 100%); border-radius: 18px 18px 0 0;">
-      🌈 Languages & Tools 🌈
-    </th>
-  </tr>
-  <tr>
-    <td align="center" colspan="4" style="padding: 12px 0; background: #eef2ff99;"><b>🎨 Front-End</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML" title="HTML5" width="46"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS" title="CSS3" width="46"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="JS" title="JavaScript" width="46"/></td>
-    <td align="center"><img src="https://upload.wikimedia.org/wikipedia/commons/1/1b/Svelte_Logo.svg" alt="Svelte" title="Svelte" width="46"/></td>
-  </tr>
-  <tr>
-    <td align="center" colspan="2"><img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="Figma" title="Figma" width="46"/></td>
-    <td colspan="2"></td>
-  </tr>
-  <tr><td colspan="4" height="14"></td></tr>
-  <tr>
-    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🛠️ Back-End</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="NodeJS" title="Node.js" width="46"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="Express" title="Express" width="46"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sequelize/sequelize-original.svg" alt="Sequelize" title="Sequelize" width="46"/></td>
-    <td></td>
-  </tr>
-    <tr>
-    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🗄️ Bases de Données</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" title="MySQL" width="46"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" title="PostgreSQL" width="46"/></td>
-    <td align="center"><img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="SQL Server" title="SQL Server" width="46"/></td>
-    <td></td>
-  </tr>
-    </tr>
-    <tr>
-    <td align="center" colspan="4" style="padding: 12px 0; background: #e0f2feaa;"><b>🔧 Outils & Autres</b></td>
-  </tr>
-  <tr>
-    <td align="center"><img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" title="Git" width="46"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="Linux" title="Linux" width="46"/></td>
-    <td align="center"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="Docker" title="Docker" width="46"/></td>
-  <td></td>
-  </tr>
-  <tr>
-    <td colspan="4" align="center" style="padding: 18px 0 0 0; color: #4f59ca; font-size: 1.1em;">
-      <i>✨ Toujours curieux d'explorer de nouveaux outils et technologies !</i>
-    </td>
-  </tr>
-</table>
 
 <h2 align="center">GitHub Stats</h2>
 
