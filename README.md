@@ -13,10 +13,6 @@
 </p>
 
 <!-- About me -->
-
-<h2>
-  👨‍💻 À propos de moi
-</h2>
 <p align="center">
   <img src="https://img.shields.io/badge/Formation-O'Clock-blue?style=for-the-badge&logo=graduation-cap" />
   <img src="https://img.shields.io/badge/Spécialité-Concepteur%20Web-green?style=for-the-badge&logo=code" />
