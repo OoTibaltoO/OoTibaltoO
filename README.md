@@ -51,7 +51,6 @@
 ![GitHub followers](https://img.shields.io/github/followers/OoTibaltoO?style=social)
 ![Github Page Visit Count](https://komarev.com/ghpvc/?username=OoTibaltoO&label=Profile%20views&color=39d353&style=flat)
 <img src="https://img.shields.io/badge/Statut-Junior-blue" />
-![Profile stats](https://raw.githubusercontent.com/OoTibaltoO/OoTibaltoO/main/stats/profile_stats.svg)
 
 <span 
   align="center">
