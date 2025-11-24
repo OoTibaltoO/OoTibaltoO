@@ -100,7 +100,7 @@
 #### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2YjBndnNpeTl0OGRvbTRkbzhwa25vMnBmOXZ2eHk4ZzFuazluNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdT231vYLHPOPfHeBZ/giphy.gif" width="75"><b>Projet en cours : E-commerce Fermier</b>
 
 
-Pour m'exercer, je travaille sur un projet E-commerce qui propose des produits issus de la ferme d'un client.
+Pour m'exercer, je développe un **site vitrine** mettant en avant des produits artisanaux en résine pour une cliente.
 
 **Fonctionnalités développées :**
 - **Catalogue de produits** : pages listant les produits, avec photos, prix et descriptions
