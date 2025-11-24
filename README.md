@@ -97,7 +97,7 @@
 - Je commence à m'intéresser au **back-end** et aux bases de données  
 - Je travaille sur des petits projets pour mettre en pratique ce que j'apprends
 
-#### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2YjBndnNpeTl0OGRvbTRkbzhwa25vMnBmOXZ2eHk4ZzFuazluNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdT231vYLHPOPfHeBZ/giphy.gif" width="75"><b>Projet en cours : E-commerce Fermier</b>
+#### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2YjBndnNpeTl0OGRvbTRkbzhwa25vMnBmOXZ2eHk4ZzFuazluNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdT231vYLHPOPfHeBZ/giphy.gif" width="75"><b>Projet en cours : La fabrique d'Alicia</b>
 
 
 Pour m'exercer, je développe un **site vitrine** mettant en avant des produits artisanaux en résine pour une cliente.
