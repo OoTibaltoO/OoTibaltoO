@@ -22,7 +22,8 @@
 <div align="center">
 <blockquote>
   <p><em>
-    Je suis un <strong>passionné</strong> qui découvre le vaste univers du développement web 🌐<br>
+    Après plus de dix ans d'expérience dans le commerce, j'ai décidé de me reconvertir pour m'épanouir dans le développement web 🔄<br>
+    Je suis un <strong>passionné</strong> qui découvre le vaste univers de l'informatique🌐<br>
     Curieux et motivé, j'explore chaque jour de nouvelles technologies 🔍<br>
     J'adore relever de nouveaux défis et progresser étape par étape ! 🚀
   </em></p>
