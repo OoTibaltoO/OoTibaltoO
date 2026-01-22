@@ -93,8 +93,7 @@
 
 ## <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExemxvN2IyaTBkNmYzNW55cmhtaW5tdDRlODN3bmRxMHJvZXN3dzVzMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/zbMRZx113HKBkeCwrm/giphy.gif" width="75"><b> Ce que je fais actuellement</b>
 
-- J'apprends les bases du **JavaScript**, du **HTML** et du **CSS**
-- Je commence à m'intéresser au **back-end** et aux bases de données  
+- Je commence à m’intéresser à la **cybersécurité** et j’envisage de suivre une nouvelle formation dans ce domaine.
 - Je travaille sur des petits projets pour mettre en pratique ce que j'apprends
 
 #### <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExbnV2YjBndnNpeTl0OGRvbTRkbzhwa25vMnBmOXZ2eHk4ZzFuazluNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/jdT231vYLHPOPfHeBZ/giphy.gif" width="75"><b>Projet en cours : La fabrique d'Alicia</b>
